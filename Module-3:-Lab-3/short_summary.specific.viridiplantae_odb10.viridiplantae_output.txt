@@ -1,0 +1,17 @@
+# BUSCO version is: 5.3.2 
+# The lineage dataset is: viridiplantae_odb10 (Creation date: 2024-01-08, number of genomes: 57, number of BUSCOs: 425)
+# Summarized benchmarking in BUSCO notation for file /pickett_sphinx/projects/EPP531_AGA/ptandy/m3_busco/braker_hap1/braker.aa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:98.6%[S:88.0%,D:10.6%],F:0.0%,M:1.4%,n:425	   
+	419	Complete BUSCOs (C)			   
+	374	Complete and single-copy BUSCOs (S)	   
+	45	Complete and duplicated BUSCOs (D)	   
+	0	Fragmented BUSCOs (F)			   
+	6	Missing BUSCOs (M)			   
+	425	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1

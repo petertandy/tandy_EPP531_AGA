@@ -1,0 +1,17 @@
+# BUSCO version is: 5.3.2 
+# The lineage dataset is: fabales_odb10 (Creation date: 2024-01-08, number of genomes: 10, number of BUSCOs: 5366)
+# Summarized benchmarking in BUSCO notation for file /pickett_sphinx/projects/EPP531_AGA/ptandy/m3_busco/braker_hap1/braker.aa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:93.5%[S:78.6%,D:14.9%],F:0.1%,M:6.4%,n:5366	   
+	5017	Complete BUSCOs (C)			   
+	4219	Complete and single-copy BUSCOs (S)	   
+	798	Complete and duplicated BUSCOs (D)	   
+	8	Fragmented BUSCOs (F)			   
+	341	Missing BUSCOs (M)			   
+	5366	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
